@@ -67,7 +67,7 @@
     transform: scale(1.05);
     transition: 0.4s;
 }
-@media (max-width:750px) {
+@media (min-width: 481px) and (max-width: 768px) {
     .services{
         align-items: start;
         gap: 70px;
