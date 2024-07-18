@@ -51,8 +51,8 @@
         display: none;
     }
     .nav-mob-open{
-        display: block;
-        position: fixed;
+        display: flex;
+        position: relative;
         right: 30px;
     }
     .nav-mob-close{
