@@ -77,4 +77,10 @@
         flex-direction: column-reverse;
         margin-bottom: 50px;
     }
+    .footer-email-input{
+        display: none;
+    }
+    .footer-subscribe{
+        display: none;
+    }
 }
