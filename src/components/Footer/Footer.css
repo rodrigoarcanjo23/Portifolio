@@ -63,7 +63,7 @@
     transform: scale(1.1);
     transform: 0.3s;
 }
-@media (min-width: 481px) and (max-width: 768px) {
+@media (max-width: 768px) {
     
     .footer{
         margin: 50px 70px;

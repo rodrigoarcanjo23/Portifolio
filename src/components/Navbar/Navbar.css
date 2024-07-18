@@ -43,7 +43,7 @@
     display: none;
 }
 
-@media (min-width: 481px) and (max-width: 768px) {
+@media (max-width: 768px) {
     .navbar{
         margin: 20px 50px;
     }

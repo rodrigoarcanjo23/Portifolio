@@ -54,7 +54,7 @@
     gap: 30px;
     transition: 0.6s;
 }
-@media (min-width: 481px) and (max-width: 768px) {
+@media (max-width: 768px) {
     .mywork{
         gap: 50px;
         margin: 50px 70px;
