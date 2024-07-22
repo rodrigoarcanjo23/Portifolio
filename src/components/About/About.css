@@ -96,7 +96,7 @@
     transform: scale(1.12);
     transition: 0.5s;
 }
-@media (max-width: 768px) {
+@media (max-width:768px) {
     .about{
         gap: 80px;
         margin: 50px 70px;
@@ -112,7 +112,6 @@
     }
     .about-sections{
         flex-direction: column;
-
     }
     .about-left{
         display: none;
@@ -130,13 +129,12 @@
     }
     .about-skill hr{
         height: 6px;
-
     }
     .about-achievements{
         justify-content: space-between;
     }
     .about-achievement{
-        gap: 10px;
+        gap: 12px;
     }
     .about-achievement h1{
         font-size: 34px;

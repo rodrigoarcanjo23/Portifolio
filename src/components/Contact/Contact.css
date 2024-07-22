@@ -102,7 +102,7 @@
     transform: scale(1.1);
     transition: 0.3s;
 }
-@media (max-width: 768px){
+@media (max-width:768px) {
     .contact{
         gap: 50px;
         margin: 50px 70px;
@@ -115,12 +115,12 @@
     }
     .contact-title img{
         width: 130px;
-        margin-right: -20px;
+        margin-right: -20;
     }
     .contact-section{
         flex-direction: column;
     }
-    .contact-left h1{
+    .contact-right h1{
         font-size: 54px;
     }
     .contact-left p{

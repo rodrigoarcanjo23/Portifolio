@@ -8,7 +8,7 @@ const Hero = () => {
     <div id='home' className='hero'>
       <img src={profile_img} alt="" />
       <h1><span>Olá, me chamo Rodrigo Arcanjo,</span> sou desenvolvedor Frontend e Backend</h1>
-      <p>Sou developer fullstack, venha conhecer mais sobre mim e me trabalho</p>
+      <p>Sou developer fullstack, venha conhecer mais sobre mim e meu trabalho</p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Conecte-se comigo</AnchorLink></div>
         <div className="hero-resume">Meu resumo</div>
